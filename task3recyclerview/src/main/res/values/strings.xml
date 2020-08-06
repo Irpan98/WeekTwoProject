@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task3RecyclerView</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+</resources>

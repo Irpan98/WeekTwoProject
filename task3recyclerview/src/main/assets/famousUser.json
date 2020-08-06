@@ -1,0 +1,92 @@
+[
+  {
+
+    "name": "Montgomery Montgomery",
+    "company": "Remote",
+    "avatar": "user1",
+    "city": "Sydney",
+    "follower": 1818,
+    "following": 12
+  },
+  {
+
+    "name": "Luis Embra",
+    "avatar": "user2",
+    "company": "Remote",
+    "city": "New Delhi",
+    "follower": 730,
+    "following": 2
+  },
+  {
+
+    "name": "Rochella Shields",
+    "avatar": "user3",
+    "company": "Remote",
+    "city": "Wenchang",
+    "follower": 210,
+    "following": 23
+  },
+  {
+
+    "name": "Jerad Grelik",
+    "avatar": "user4",
+    "company": "Remote",
+    "city": "Sydney",
+    "follower": 8789,
+    "following": 43
+  },
+  {
+
+    "name": "Flor Gimson",
+    "avatar": "user5",
+    "company": "Remote",
+    "city": "Trondheim, Norway",
+    "follower": 8789213,
+    "following": 60
+  },
+  {
+
+    "name": "Ravi Tamada",
+    "avatar": "user6",
+    "company": "Remote",
+    "city": "India",
+    "follower": 96,
+    "following": 3
+  },
+  {
+
+    "name": "Myranda",
+    "avatar": "user7",
+    "company": "Remote",
+    "city": "Cikananga",
+    "follower": 730,
+    "following": 89
+  },
+  {
+
+    "name": "Leeann Odom",
+    "avatar": "user8",
+    "company": "Remote",
+    "city": "Changjiangbu",
+    "follower": 860,
+    "following": 81
+  },
+  {
+
+    "name": "Hendi Santika",
+    "avatar": "user9",
+    "company": "Remote",
+    "city": "Pulaupinang",
+    "follower": 428,
+    "following": 61
+  },
+  {
+
+    "name": "Alvy Melia",
+    "avatar": "user10",
+    "company": "Remote",
+    "city": "Lomme",
+    "follower": 465,
+    "following": 10
+  }
+]

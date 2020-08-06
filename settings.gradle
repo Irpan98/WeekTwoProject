@@ -1,0 +1,4 @@
+include ':task3recyclerview'
+include ':task2login'
+include ':task1Calculator'
+rootProject.name = "WeekTwoProject"
