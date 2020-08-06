@@ -16,7 +16,7 @@ val TAG = "MainActivity"
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val realUser = User("irpan", "itborneo")
+        val realUser = User("irpan", "udacoding")
 
         btn_login.setOnClickListener {
 

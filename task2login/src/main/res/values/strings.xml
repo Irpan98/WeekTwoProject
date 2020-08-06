@@ -12,4 +12,6 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">LOGIN</string>
+    <string name="selamatdatang">SelamatDatang</string>
+    <string name="udacoding">Udacoding</string>
 </resources>
